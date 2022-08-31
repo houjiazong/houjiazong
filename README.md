@@ -1,12 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-![houjiazong's Github Stats](https://github-readme-stats.vercel.app/api?username=houjiazong&theme=bear)
+![houjiazong's Github Stats](https://github-readme-stats.vercel.app/api?username=houjiazong)
 
-![houjiazong](https://github-readme-streak-stats.herokuapp.com/?user=houjiazong&theme=dark)
+![houjiazong](https://github-readme-streak-stats.herokuapp.com/?user=houjiazong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&show_icons=true&card_width=450&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/houjiazong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&show_icons=true&card_width=450&layout=compact&langs_count=10&hide_title=true)](https://github.com/houjiazong)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houjiazong&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houjiazong)
 <!--
 **houjiazong/houjiazong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
