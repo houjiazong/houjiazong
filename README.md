@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-![houjiazong's Github Stats](https://github-readme-stats.vercel.app/api?username=houjiazong)
+![houjiazong's Github Stats](https://github-readme-stats.vercel.app/api?username=houjiazong&theme=bear)
 
-![houjiazong's Github Stats](https://github-profile-trophy.vercel.app/?username=houjiazong)
+![houjiazong](https://github-readme-streak-stats.herokuapp.com/?user=houjiazong&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&show_icons=true&card_width=450&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/houjiazong)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houjiazong&theme=monokai)
 <!--
 **houjiazong/houjiazong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
