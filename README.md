@@ -4,7 +4,7 @@
 
 ![houjiazong](https://github-readme-streak-stats.herokuapp.com/?user=houjiazong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&show_icons=true&card_width=450&layout=compact&langs_count=10&hide_title=true)](https://github.com/houjiazong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&layout=compact)](https://github.com/houjiazong)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houjiazong)
 <!--
