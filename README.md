@@ -47,10 +47,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=houjiazong&theme=tokyonight&show_icons=true&hide_border=true" />
+      <img src="https://github-stats-extended.vercel.app/api?username=houjiazong&theme=tokyonight&show_icons=true&hide_border=true" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houjiazong&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=houjiazong&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
